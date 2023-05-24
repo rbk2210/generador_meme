@@ -59,7 +59,7 @@ html {
 }
 
 .meme img {
-  width: 70%;
+  width: 80%;
 }
 
 body {
@@ -124,5 +124,5 @@ h1 {
 
 #img {
 	width: 90%;
-	margin-top: -.1rem;
+	margin-top: -1.1rem;
 }
